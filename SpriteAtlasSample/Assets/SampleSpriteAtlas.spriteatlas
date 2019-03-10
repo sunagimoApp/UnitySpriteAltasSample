@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SampleSpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: a91ea2be3662f4c5fbfd2458696fcc01, type: 3}
+    - {fileID: 21300000, guid: c494c51f28611454d99854b8fad67be7, type: 3}
+    - {fileID: 21300000, guid: 3b87525bc73ad47ce9c43d2b16ea9536, type: 3}
+    - {fileID: 21300000, guid: 36365fc9976ed42f098719f1f9fc2f55, type: 3}
+    - {fileID: 21300000, guid: 00d3a0732f56e4d0f99dfe1ccdd2851f, type: 3}
+    - {fileID: 21300000, guid: 7fadbab09c3d044ef9394c34f1d6e35c, type: 3}
+    - {fileID: 21300000, guid: 38de3cf3313e34a26a21159648d1fdde, type: 3}
+    - {fileID: 21300000, guid: 41bf516d40bd94454866149fb4a0429b, type: 3}
+    - {fileID: 21300000, guid: 5fc724c976ba0408b8adeafa65bf2008, type: 3}
+    - {fileID: 21300000, guid: 9ba26053dd73b41e6a2483a7e961db9e, type: 3}
+    totalSpriteSurfaceArea: 2245138
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 7fadbab09c3d044ef9394c34f1d6e35c, type: 3}
+  - {fileID: 21300000, guid: 9ba26053dd73b41e6a2483a7e961db9e, type: 3}
+  - {fileID: 21300000, guid: 00d3a0732f56e4d0f99dfe1ccdd2851f, type: 3}
+  - {fileID: 21300000, guid: 38de3cf3313e34a26a21159648d1fdde, type: 3}
+  - {fileID: 21300000, guid: 5fc724c976ba0408b8adeafa65bf2008, type: 3}
+  - {fileID: 21300000, guid: 36365fc9976ed42f098719f1f9fc2f55, type: 3}
+  - {fileID: 21300000, guid: 3b87525bc73ad47ce9c43d2b16ea9536, type: 3}
+  - {fileID: 21300000, guid: 41bf516d40bd94454866149fb4a0429b, type: 3}
+  - {fileID: 21300000, guid: a91ea2be3662f4c5fbfd2458696fcc01, type: 3}
+  - {fileID: 21300000, guid: c494c51f28611454d99854b8fad67be7, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 1051010404
+  - 1499010402
+  - 1037010403
+  - 1087010403
+  - 1104010403
+  - 1032010403
+  - 1012010403
+  - 1100010403
+  - 1002010403
+  - 1008020401
+  m_Tag: SampleSpriteAtlas
+  m_IsVariant: 0
